@@ -25,7 +25,7 @@ Page Scraper is a Python-based application that allows users to extract all link
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/page-scraper.git](https://github.com/Mouri69/Web-Scraper
-   cd page-scraper
+   cd extractweb
    ```
 2. Install dependencies:
    ```bash
